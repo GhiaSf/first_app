@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,3 +27,8 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+=======
+first_app
+=========
+>>>>>>> 6a149437503b58982e4660bd1a53c6be22a14b0c
+an edit we want to keep
